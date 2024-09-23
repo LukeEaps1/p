@@ -3,3 +3,4 @@
 First= Luke 
 Last= Eapen 
 Age= 13
+print(First) + (Last) + (Age)
